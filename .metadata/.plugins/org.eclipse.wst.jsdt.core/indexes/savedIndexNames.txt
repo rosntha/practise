@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/roshan/rosn-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3304681041.index
+3260899761.index
+1019335750.index
+2857872873.index
+3405336505.index
+870763980.index
